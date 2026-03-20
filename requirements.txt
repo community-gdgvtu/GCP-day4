@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-generativeai
+google-cloud-alloydb-connector[pg8000]
+sqlalchemy
+pgvector
+httpx
